@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# gvim swaps
+*.un~
+*.swp
+*.cpp~
+*.hpp~
+.DS_Store
+.gitignore~
