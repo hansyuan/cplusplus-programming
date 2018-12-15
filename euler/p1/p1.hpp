@@ -1,4 +1,4 @@
-// Remembering how C++ works. Written in gvim. 
+// Remembering how C++ works. Written in Sublime Text. 
 // Compiled on a Macbook. No IDEs (that's cheating)
  
 
